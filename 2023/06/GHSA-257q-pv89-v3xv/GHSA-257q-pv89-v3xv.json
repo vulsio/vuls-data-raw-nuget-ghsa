@@ -33,25 +33,6 @@
 					]
 				}
 			]
-		},
-		{
-			"package": {
-				"ecosystem": "NuGet",
-				"name": "org.webjars.npm:jquery"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "1.0.3"
-						},
-						{
-							"fixed": "3.5.0"
-						}
-					]
-				}
-			]
 		}
 	],
 	"references": [
