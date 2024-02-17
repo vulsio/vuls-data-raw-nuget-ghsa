@@ -113,7 +113,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.nuget.org/packages/Microsoft.Bot.Connector/"
+			"url": "https://www.nuget.org/packages/Microsoft.Bot.Connector"
 		}
 	],
 	"database_specific": {
