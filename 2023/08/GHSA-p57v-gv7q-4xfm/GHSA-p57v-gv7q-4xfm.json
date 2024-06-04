@@ -211,7 +211,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-400"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-08-09T13:04:54Z",
 		"nvd_published_at": "2023-08-08T18:15:22Z",
