@@ -111,7 +111,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-284"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-04-12T23:07:14Z",
 		"nvd_published_at": "2023-01-18T00:15:00Z",
